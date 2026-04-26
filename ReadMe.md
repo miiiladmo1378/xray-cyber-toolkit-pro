@@ -46,7 +46,7 @@ index.html را در مرورگر باز کنید
 ---
 
 ## 🌍 نسخه آنلاین
-https://USERNAME.github.io/REPO_NAME/
+https://miiiladmo1378.github.io/xray-cyber-toolkit-pro/
 
 ---
 
